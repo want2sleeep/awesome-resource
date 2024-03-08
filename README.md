@@ -102,7 +102,9 @@ Z-Library（电子书，需魔法）：
 
 [iLovePDF](https://www.ilovepdf.com)（PDF在线工具）
 
-[Overleaf](https://www.overleaf.com/)（在线 $LaTeX$ 编辑器）
+[Overleaf](https://www.overleaf.com/)（在线 $LaTeX$ 编辑器）  
+      
+[在线LaTeX公式编辑器](https://www.latexlive.com/)
 
 ## 翻译器
 
@@ -134,7 +136,7 @@ Z-Library（电子书，需魔法）：
 
 [标小智LOGO神器](https://www.logosc.cn/)（做图标的）
 
-[regex101（匹配正则表达式）](https://regex101.com/)
+[regex101](https://regex101.com/)（匹配正则表达式）
 
 ## 数学
 
