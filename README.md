@@ -1,6 +1,16 @@
-> Sorted by Juanry
+## 汇总
 
-# 资源
+[Free For Developers](https://free-for.dev)：面向开发者的免费资源汇总，包括免费域名、免费CDN等，几乎啥都有
+
+## 资料
+
+[提示词工程](https://www.promptingguide.ai/zh)
+
+## 视频
+
+[低端影视](https://ddys.pro) 有很多高清流媒体
+
+## 资源
 
 [阿里巴巴矢量图标库](https://www.iconfont.cn/)
 
@@ -23,6 +33,8 @@
 [Adobe](https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html)（音频）
 
 [Pexels](https://www.pexels.com/)（图片）
+
+[Pixabay](https://pixabay.com/zh/)（图片）
 
 [StreetWill](http://streetwill.co/)（图片）
 
@@ -48,9 +60,7 @@ Library Genesis+（电子书，需魔法）：
 
 Z-Library（电子书，需魔法）：
 
-- [Link 1](https://cn1lib.is/)
-- [Link 2](https://1lib.cf/)
-- [Link 3](https://1lib.tk/)
+- [Link 1](https://zh.z-lib.gs/)
 
 [ElementUI](https://element.eleme.cn/2.13/#/zh-CN)（前端组件库）
 
@@ -59,7 +69,7 @@ Z-Library（电子书，需魔法）：
 [编译原理（第2版）答案](https://github.com/fool2fish/dragon-book-exercise-answers)（紫龙书）
 
 
-# OJ
+## OJ
 
 [力扣](https://leetcode.cn/)
 
@@ -86,9 +96,9 @@ Z-Library（电子书，需魔法）：
 [AcWing](https://www.acwing.com/)（主要还是卖课的）
 
 
-# 工具
+## 工具
 
-## chatgpt
+### ai
 
 [AMZ chat](https://chat.52amz.com/)（chatgpt镜像）
 
@@ -96,7 +106,7 @@ Z-Library（电子书，需魔法）：
 
 [Poe](https://poe.com/)（chatgpt，需魔法）
 
-## 编辑器
+### 编辑器
 
 [SVG编辑器](https://c.runoob.com/more/svgeditor/)
 
@@ -106,13 +116,13 @@ Z-Library（电子书，需魔法）：
       
 [在线LaTeX公式编辑器](https://www.latexlive.com/)
 
-## 翻译器
+### 翻译器
 
 [DeepL](https://www.deepl.com/translator)（翻译）
 
 [超星翻译](https://ss.zhizhen.com/open/bilingual/redirect)（pdf翻译）  // 看外文论文挺好用
 
-## 找论文
+### 找论文
 
 [中国知网](https://www.cnki.net/)
 
@@ -120,7 +130,7 @@ Z-Library（电子书，需魔法）：
 
 [Web of Science](https://www.webofscience.com/wos/)（外文）  
 
-## 其他
+### 其他
 
 [可画](https://www.canva.cn/)（海报、PPT等）
 
@@ -138,7 +148,7 @@ Z-Library（电子书，需魔法）：
 
 [regex101](https://regex101.com/)（匹配正则表达式）
 
-## 数学
+### 数学
 
 [GeoGebra](https://www.geogebra.org/)（数学等画图）
 
@@ -148,7 +158,7 @@ Z-Library（电子书，需魔法）：
 
 [Wolfram|Alpha](https://www.wolframalpha.com/)（啥都能算）
 
-## LaTeX
+### LaTeX
 
 [LaTeX 数学公式大全](https://www.luogu.com.cn/blog/IowaBattleship/latex-gong-shi-tai-quan)
 
@@ -160,7 +170,7 @@ Z-Library（电子书，需魔法）：
 
 [一份其实很短的 LaTeX 入门文档 | 始终](https://liam.page/2014/09/08/latex-introduction/)
 
-# 学习
+## 学习
 
 [菜鸟教程](https://www.runoob.com/)
 
@@ -184,13 +194,13 @@ Z-Library（电子书，需魔法）：
 
 [hzwer/shareOI: 算法竞赛课件分享 ](https://github.com/hzwer/shareOI)
 
-# 博客
+## 博客
 
-## 团队
+### 团队
 
 [美团技术团队](https://tech.meituan.com/)
 
-## 个人        
+### 个人        
 
 [白忠建老师的博客](https://baizj.gitee.io/)
 
@@ -200,8 +210,60 @@ Z-Library（电子书，需魔法）：
 
 [Matrix67: The Aha Moments](http://www.matrix67.com/blog/)（Matrix67 的博客，内有很多有趣的内容，大部分与数学相关）
 
-# 社区
+## 社区
 
 [腾讯云开发者社区](https://cloud.tencent.com/developer/column)
 
 [阿里云开发者社区](https://developer.aliyun.com/)
+
+
+## 国家网站（from [一网一匠](https://ywyj.cn/posts/6354)）
+gov网站：  
+
+[国家智慧教育公共服务平台](https://gjzwfw.www.gov.cn/)   
+
+[中国裁判文书网](https://wenshu.court.gov.cn/)   
+
+[国家企业信用信息公示系统](https://gs.gsxt.gov.cn/index.html)   
+
+[国家社会保险服务平台](https://si.12333.gov.cn/)    
+
+[天地图](https://www.tianditu.gov.cn/)    
+
+[国家统计局](https://www.stats.gov.cn/)     
+
+[中国商标网](https://sbj.cnipa.gov.cn/sbj/index.html)   
+
+[国家法律法规数据库](https://flk.npc.gov.cn/)   
+
+[中国专利公布公告网](http://epub.cnipa.gov.cn/)   
+
+[国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/)   
+
+[国家药品监督管理局](https://www.nmpa.gov.cn/datasearch/home-index.html#category=yp)  
+
+[食品安全抽检公布结果查询系统](https://spcjsac.gsxt.gov.cn/)  
+
+[发票查验平台](https://inv-veri.chinatax.gov.cn/?p=51,42&a=cjfb)    
+
+[中国关键词](http://keywords.china.org.cn/index.htm)   
+
+[工信部申诉受理中心](https://ythzxfw.miit.gov.cn/index)        
+
+[合同示范文本库](https://htsfwb.samr.gov.cn/)     
+
+[中国法律服务网](https://www.12348.gov.cn/#/homepage)    
+
+[中国庭审公开网](https://tingshen.court.gov.cn/)    
+
+非gov国家网站：    
+
+[终身教育平台](https://le.ouchn.cn/home)    
+
+[国家数字图书馆](https://www.nlc.cn/web/index.shtml)   
+
+[国家哲学社会科学文献](https://www.ncpssd.org/)    
+
+[国家高等教育智慧教育平台](https://www.chinaooc.com.cn/)    
+
+[职业教育专业教学资源库](https://zyk.icve.com.cn/)    
