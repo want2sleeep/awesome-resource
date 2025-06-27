@@ -1,14 +1,19 @@
+---
+title: 一些资源网站
+date: 2024-06-27 16:47:07
+tags:
+---
 ## 汇总
 
 [Free For Developers](https://free-for.dev)：面向开发者的免费资源汇总，包括免费域名、免费CDN等，几乎啥都有
 
 ## 资料
 
-[提示词工程](https://www.promptingguide.ai/zh)
+[提示词工程](https://www.promptingguide.ai/zh)：和大模型打交道的必读之物
 
 ## 视频
 
-[低端影视](https://ddys.pro) 有很多高清流媒体
+[低端影视](https://ddys.pro)：有很多高清流媒体
 
 ## 资源
 
@@ -16,11 +21,11 @@
 
 [IconPark](https://iconpark.oceanengine.com/)
 
-[谷歌字体](https://www.googlefonts.cn/)（也有很多图标）
+[谷歌字体](https://www.googlefonts.cn/)（除了字体以外也有很多图标）
 
 [Font Awesome](https://fontawesome.com/)
 
-[中国色](http://zhongguose.com/)
+[中国色](http://zhongguose.com/)：好看的颜色
 
 [Code examples](https://keras.io/examples/)
 
@@ -28,7 +33,7 @@
 
 [Bensound](https://www.bensound.com/)（无版权音乐）
 
-[Pixabay](https://pixabay.com/)（音视频图像都有）
+[Pixabay](https://pixabay.com/)（音频视频图像都有）
 
 [Adobe](https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html)（音频）
 
