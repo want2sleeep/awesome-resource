@@ -1,8 +1,3 @@
----
-title: 一些资源网站
-date: 2024-06-27 16:47:07
-tags:
----
 ## 汇总
 
 [Free For Developers](https://free-for.dev)：面向开发者的免费资源汇总，包括免费域名、免费CDN等，几乎啥都有
@@ -13,7 +8,7 @@ tags:
 
 ## 视频
 
-[低端影视](https://ddys.pro)：有很多高清流媒体
+[低端影视](https://ddys.pro)：有很多的高清流媒体
 
 ## 资源
 
