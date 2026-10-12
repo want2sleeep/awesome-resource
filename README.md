@@ -138,6 +138,8 @@ Z-Library（电子书，需魔法）：
 
 [Pix Fix](https://pixfix.com/)（免费图片降噪修复）
 
+[QuietTake Noise Remover](https://noiseremover.site)（免费语音降噪，本机处理，文件不超过50 MB且时长不超过5分钟；英文界面）
+
 [clip-path生成器](https://www.jiangweishan.com/tool/clippy/)
 
 [在线抠图](https://tool.lu/cutout/)
